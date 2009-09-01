@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/232/trunk/code/unix/scripts
+END
+install_vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/trunk/code/unix/scripts/install_vim
+END
+find_occurance
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/115/trunk/code/unix/scripts/find_occurance
+END
+install_bash
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/trunk/code/unix/scripts/install_bash
+END
+can.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/116/trunk/code/unix/scripts/can.sh
+END

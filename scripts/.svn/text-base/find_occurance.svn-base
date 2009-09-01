@@ -1,0 +1,3 @@
+# Written by xavier bouyssounouse
+find . -type f -exec grep -H "$1" {} \;  | cut -d: -f1 | grep -v '^Binary' | grep -v "\/\.svn\/" | grep -v '\.d$' | grep -v '\.prereq$' | grep -v '~$' | sort | uniq
+

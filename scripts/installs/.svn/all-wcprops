@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/232/trunk/code/unix/scripts/installs
+END
+vim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/231/trunk/code/unix/scripts/installs/vim.sh
+END
+install-all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/232/trunk/code/unix/scripts/installs/install-all.sh
+END
+bash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/231/trunk/code/unix/scripts/installs/bash.sh
+END
+screen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/231/trunk/code/unix/scripts/installs/screen.sh
+END
+utils.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/231/trunk/code/unix/scripts/installs/utils.sh
+END
